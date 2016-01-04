@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="about">About</string>
+    <string name="achievements">Achievements</string>
+    <string name="byEmmanuelMess">by EmmanuelMess</string>
+    <string name="cancel">Cancel</string>
+    <string name="contact">Contact</string>
+    <string name="crash_report">Crash Report</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="leaderboards">Leaderboards</string>
+    <string name="name">Your Name (optional)</string>
+    <string name="play">PLAY</string>
+    <string name="send">Send</string>
+    <string name="ups0">Seems that the app crashed, you can help solve this!</string>
+    <string name="app_name" translatable="false">Tactical Defence</string>
+    <string name="email_chooser">Choose an app:</string>
+    <string name="upgrades">UPGRADES</string>
+    <string name="battle">GO TO BATTLE</string>
+    <string name="help_me">You can help me!</string>
+    <string name="donating">Donate</string>
+    <string name="or">or</string>
+    <string name="Bitcoin" translatable="false">Bitcoin…</string>
+    <string name="Paypal" translatable="false">Paypal…</string>
+    <string name="Google" translatable="false">Google Play Store…</string>
+    <string name="Flattr" translatable="false">Flattr…</string>
+    <string name="ad">Advertise</string>
+    <string name="about_text">This is my first game. It\'s a real-time strategy game made for touch
+        input and smaller screens than PC\'s. The game will be updated as long as players keep
+        bringing to me feedback. Also it\'s free, so play it and send me bug reports, comments or
+        tell me what features you like more or would like!
+    </string>
+    <string name="paused">PAUSED</string>
+    <string name="tap_return">Tap to Return</string>
+    <string name="back_exit">Press BACK to Exit</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="credits">Credits</string>
+    <string name="advertising">Ad</string>
+    <string name="loading">Loading…</string>
+    <string name="offPoints">ATTACK PLACES</string>
+    <string name="defPoints">HP WON</string>
+    <string name="credits_text" translatable="false">,56CREDITS,36\n\nMade by,24\nEmmanuel
+        Messulam,36\n\n\nMusic by,24\nMauricio,36\n\nSound Efects by,24\nqubodup - Crossbow
+        shot,24\nTwisted_Euphoria - Arrow Impact,24\nCyberkineticfilms - Heal
+        Sonification,36\n\n\nMade with,24\nAndroid,36\n\nAPIs and Other Code,24\nACRA,24\nFPS
+        managing code - impaler,24\nBitcoin API - Andreas Schildbach,24\nDonations code -
+        dschuermann,36\n\n\nThanks to,24\nTigogo (ColdfusTion),24\nExtra Credits,24\nMauricio - \'Mi
+        mamá dice que sé programar\',
+    </string>
+    <string name="thanks">Thank you very much!</string>
+    <string name="horribly_wrong" translatable="false">Something went horribly wrong!</string>
+    <string name="swipe">Swipe to open menu</string>
+    <string name="touch">Touch to open item</string>
+    <string name="money_added"><![CDATA[<—Gain money by killing enemies!]]></string>
+    <string name="attack">More than one piece can attack a a time!</string>
+    <string name="arrow_explanation">Click!</string>
+    <string name="black_arrow_explanation">Swipe!</string>
+    <string name="level">Level</string>
+    <string name="touch_menu">Touch to open menu</string>
+    <string name="desc_about">About Tactical Defence</string>
+    <string name="ad_unit_id" translatable="false">ca-app-pub-5392537977293242/4710724614</string>
+    <string name="birthday">Happy Birthday</string>
+    <string name="present">Have some money!</string>
+    <string name="pieces">PIECES</string>
+    <string name="powers">POWERS</string>
+    <string name="castle">CASTLE</string>
+    <string name="damage">Damage</string>
+    <string name="towers">Towers</string>
+    <string name="desc_1">Simple artillery</string>
+    <string name="ballista">Ballista</string>
+    <string name="desc_2">Heavy and slow but does a lot of darmage</string>
+    <string name="healer">Healer</string>
+    <string name="desc_3">Restores health in damaged pieces</string>
+    <string name="heal">Heal</string>
+    <string name="distractor">Distractor</string>
+    <string name="desc_4">A lot of health but slow and can\'t attack. Used mainly for receiving damage</string>
+    <string name="magical_arrow">Magical arrow</string>
+    <string name="desc_11">Does more damage, no backdraws, except for the cost</string>
+    <string name="desc_12">Heals a piece completely</string>
+    <string name="magical_defence">Magical Defence</string>
+    <string name="desc_13">Resist more enemy fire</string>
+    <string name="resistance">Resistance</string>
+    <string name="costs">Costs</string>
+    <string name="adds">Adds</string>
+    <string name="defence_towers">Defence towers</string>
+    <string name="desc_21">Offensive construction that adds 2 points of attack</string>
+    <string name="archers">Archers</string>
+    <string name="desc_22">Offensive construction that adds 5 points of attack</string>
+    <string name="defensive_towers_ii">Defensive towers II</string>
+    <string name="desc_23">Offensive construction that adds 1 points of attack</string>
+    <string name="points_of_attack">points of attack</string>
+    <string name="improved_walls">Improved walls</string>
+    <string name="ramparts">Ramparts</string>
+    <string name="desc_24">Defensive, adds health</string>
+    <string name="desc_25">Defensive style change!</string>
+    <string name="need_browser">You need a browser!</string>
+    <string name="already_loading">Already loading!</string>
+
+</resources>

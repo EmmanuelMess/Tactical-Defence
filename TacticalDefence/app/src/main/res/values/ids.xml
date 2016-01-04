@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_id" translatable="false">960237408241</string>
+
+    <string name="achievement_finished_tutorial" translatable="false">CgkI8Z_wlPkbEAIQAg</string>
+    <string name="achievement_no_loses" translatable="false">CgkI8Z_wlPkbEAIQAw</string>
+    <string name="achievement_finished_castle" translatable="false">CgkI8Z_wlPkbEAIQBA</string>
+    <string name="achievement_finished_game" translatable="false">CgkI8Z_wlPkbEAIQAQ</string>
+    <string name="achievement_20_powerups" translatable="false">CgkI8Z_wlPkbEAIQBQ</string>
+</resources>

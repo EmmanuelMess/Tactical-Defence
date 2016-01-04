@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brown">#ff544300</color>
+    <color name="dark_yellow">#fff5da00</color>
+    <color name="dark_red">#CC0000</color>
+    <color name="white">#ffffffff</color>
+    <color name="dark_green">#ff00c000</color>
+    <color name="player_blue">#0231ff</color>
+    <color name="ai_red">#ff0303</color>
+</resources>

@@ -1,0 +1,181 @@
+1.4.2:
+-Music crash
+
+1.4.1:
+-Integrated Google Play Games!!!
+
+-Current action button changes colour!
+-Better piece putting algorithm!
+-Added normal distribution to AI firing!
+-Upgrades for castle already bought appear crossed!
+-Explanations translated!
+-Modified UI
+
+-Icon is now a mitmap!
+Fixies:
+-Crash when putting piece
+-You can only use health pack only if there's lack of life now
+-Crash in donations
+-Back now works in main menu
+-Red text now works correctly
+-Crash in tutorial
+-Pieces put on top of another are unmoveable
+
+1.4:
+-Added rampart for castle!
+-Added central tower for castle!
+
+-Healing has animation!
+-Prices descended!
+-Buttons change colour when selected!
+-Menu now has animation!
+-Castles and menu have anti-aliasing now!
+-Dead pieces have less alpha now, they are less visible!
+-Added price tags to castle upgrades menu!
+-Cash to be spent appears only if it's different than zero!
+
+-Added backup
+-Added link to licence
+
+Fixes:
+-Better in-game menu performance
+-Piece atop dead piece is now selectable
+-Piece fire range not the same for castle and for other pieces
+-Lib for handling geometry now implemented
+-Collision handling initialized on main menu
+-Lower weigth
+-Debug functions apearing in any device
+-Gigantified up and down arrow touch zone!
+-Fixed castle images a bit
+-Changed main menu arrow's colour
+-AI can now only use powerups from level 3
+-AI now spawns a normal amount of pieces per level
+-Castle is now in front of dead pieces
+-Beware: AI healers and distractors now actually work!
+-Now you get 5 points less for each enemy death
+-Level 2 is shorter
+-Corrected middle tower attacking point
+-For new players: game now shows tutorial level first start
+-Solved crash when user completes last lvl
+-Tower's range enlargened
+-Distances calculated to the attack point rather than to the element
+-Solved some bugs with the shield
+-Restart of level after you loose actually works now
+-You can move and attack correctly now
+-If an error occurs when putting a piece, it appears at the vertical middle.
+
+1.3 hotfix IV:
+-Main menu now shows the correct level
+-Castle upgrade shows correclly
+-Reduced file size
+-Red letters when modifying castle now turn black after some time
+-Corrected an error in gameplay clock
+-Attack powerup on balistas now have the correct image
+-Smaller pictures for balista arrows
+-Improved error reports
+-Used Fragments in the castle modification section
+-NullPointerException in tutorial
+-Can't attack enemy tower
+-Piece can't go through barricades now
+-Piece can't put travelling mark in enemy tower now
+-Piece going into castle
+-Piece getting stuck in castle
+-Gameplay counts paused time no more
+-Piece tests coordinates w/less errors now
+
+1.3 hotfix III:
+-Fixies on inefficient time consumption.
+-Health bar on top when piece is near the bottom
+-No health bar when piece is dead
+-Up and down arrows in menu are clickeable
+-Fixed 1px in the AI's castle
+-Enemy arrows are now rotated correctly
+-AI shooting arrows out of the screen
+
+1.3 hotfix II:
+-Impossible to quit error
+-Hitbox problems with enemy castle
+-Improved renderization of castles
+-Bug on swipe
+
+1.3 hotfix I:
+-NullPointerException in Balista
+-Random text appering when no item is selected in the explanatory menu
+-If piece is attacking, when a healer is put, it's bugged
+-Excesive permissions
+-AI now spawns correctly
+
+1.3:
+-Added a menu to know each piece! :)
+
+-Added piece: The Balista!
+-Added barricades!
+
+-AI can now use the powerups added in the last update!
+-AI can now see obstacles!
+
+-Game now shows gameplay time!
+
+Fixes:
+-Payment bug in arrow powerup.
+-Fixed piece prices.
+-Object avoidance in AI.
+
+1.2:
+-Added archers to castle.
+
+-Added power ups: 
+	-Defence.
+	-Attack.
+
+-You can scroll the enemy castles (a bit tricky though).
+
+Fixes:
+-Fixed minor error in tutorial.
+-Arrow bug in towers.
+
+1.1.1:
+-New music!
+-Added ads and PayPal added to donate.
+
+Fixes:
+-Game now doesn't stop when gone to other app.
+-Arrows are rotated correctly now.
+-Arrows continue route after piece died.
+-Solved incorrect castle hitbox.
+-Solved movement errors.
+-AI fires to neares point in castle now. 
+
+1.1:
+-New piece type: "distractor".
+
+-Castle upgrades:
+	-Changed sprites.
+	-Deleted useless upgrades.
+
+-Ingame menu:
+	-Reordered  (all pieces in one submenu).
+	-Changed sprites.
+	-Added new way to open.
+
+-Inverted in-game button position.
+-If you lose game throws you back in (on click).
+
+-Actualizated: 
+	-Tutorial.
+	-Translations.
+-Performance tweak!
+
+Bug fixes:
+-Error line-breaking in the tutorial.
+-Fixed enemy castle hitbox.
+-Fixed tutorial crash.
+-Fixed chrash when enemy towers fire.
+-Bigger menu arrow.
+-Shortened distance to heal.
+-Pieces don't go up and down infinitly now.
+-AI now uses healers.
+-If you go Main menu>Home>Main menu buttons are shown.
+-Piece selectability bug.
+-Pressing back exits correctly the app (on main menu).
+-Enemy piece goes faster after killing a piece of yours.

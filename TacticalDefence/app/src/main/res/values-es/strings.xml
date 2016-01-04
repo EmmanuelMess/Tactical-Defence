@@ -1,0 +1,86 @@
+<resources>
+
+    <string name="achievements">Logros</string>
+    <string name="about">Acerca de</string>
+    <string name="byEmmanuelMess">por EmmanuelMess</string>
+    <string name="leaderboards">Tablas de clasificacion</string>
+    <string name="contact">Contacto</string>
+    <string name="hello_world">¡¡¡Hola Mundo!!!</string>
+    <string name="cancel">Cancelar</string>
+    <string name="send">Enviar</string>
+    <string name="crash_report">Reporte de error</string>
+    <string name="name">Tu nombre (opcional)</string>
+    <string name="battle">IR A PELEAR!</string>
+    <string name="upgrades">MEJORAS</string>
+    <string name="help_me">Tu puedes ayudarme!</string>
+    <string name="or">o</string>
+    <string name="ad">Publicitá</string>
+    <string name="ups0">Parece que la aplicacion se detuvo, tu puedes ayudar a resolver esto!
+    </string>
+    <string name="paused">PAUSADO</string>
+    <string name="play">JUGAR</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="about_text">Este es mi primer juego. Es un juego de estrategia en tempo real
+        creado para pantallas tactiles y mas chicas que las de PC. Este juego va a seguir siendo
+        actualizado mietras sigua recibiendo feedback. Además es gratis, así que lo puedes jugar y
+        enviarme reportes de error, comentarios o decirme que caracteristicas te gustan más o te
+        gustaría que halla!
+    </string>
+    <string name="tap_return">Toca para volver</string>
+    <string name="email_chooser">Escoje una aplicacion:</string>
+    <string name="donating">Donar</string>
+    <string name="credits">Creditos</string>
+    <string name="advertising">Publicidad</string>
+    <string name="back_exit">Precioná ATRAS para salir</string>
+    <string name="loading">Cargando…</string>
+    <string name="offPoints">LUGARES DE ATAQUE</string>
+    <string name="defPoints">HP GANADA</string>
+    <string name="thanks">Muchas gracias!</string>
+    <string name="swipe">Desliza el dedo\npara abrir el menu</string>
+    <string name="money_added"><![CDATA[<—Ganas dinero al matar enemigos!]]></string>
+    <string name="attack">Mas de una pieza puede\natacar al mismo tiempo!</string>
+    <string name="touch">Tocá para abrir item</string>
+    <string name="arrow_explanation">Presioná!</string>
+    <string name="black_arrow_explanation">Deslizá!</string>
+    <string name="level">Nivel</string>
+    <string name="touch_menu">Tocá para abrir menu</string>
+    <string name="desc_about">Acerca de Tactical Defence</string>
+    <string name="donations__flattr_description">¡Flattr toma un 10% como cuota mensual!</string>
+    <string name="birthday">¡Feliz cumpleaños</string>
+    <string name="present">He aquí dinero!</string>
+    <string name="pieces">PIEZAS</string>
+    <string name="adds">Añade</string>
+    <string name="archers">Arqueros</string>
+    <string name="ballista">Balista</string>
+    <string name="castle">CASTILLO</string>
+    <string name="costs">Cuesta</string>
+    <string name="damage">Daño</string>
+    <string name="defence_towers">Torres defensivas</string>
+    <string name="defensive_towers_ii">Torres defensivas II</string>
+    <string name="desc_1">Artilleria simple</string>
+    <string name="desc_11">Hace más daño, no tiene desventajas, exepto por el costo</string>
+    <string name="distractor">Distractor</string>
+    <string name="heal">Cura</string>
+    <string name="healer">Curador</string>
+    <string name="improved_walls">Paredes mejoradas</string>
+    <string name="magical_arrow">Flecha magica</string>
+    <string name="magical_defence">Defensa magica</string>
+    <string name="points_of_attack">puntos de ataque</string>
+    <string name="powers">PODERES</string>
+    <string name="ramparts">Murallas</string>
+    <string name="resistance">Resistencia</string>
+    <string name="towers">Torres</string>
+    <string name="desc_12">Cura una pieza completamente</string>
+    <string name="desc_13">Resiste más daño</string>
+    <string name="desc_2">Pesado y lento pero hace más daño</string>
+    <string name="desc_21">Estructura defensiva que añade 2 puntos de ataque</string>
+    <string name="desc_22">Estructura defensiva que añade 5 puntos de ataque</string>
+    <string name="desc_23">Estructura defensiva que añade 1 puntos de ataque</string>
+    <string name="desc_24">Defensivo, añade vida</string>
+    <string name="desc_25">Defensivo, cambio de estilo!</string>
+    <string name="desc_3">Restaura la vida de las piezas</string>
+    <string name="desc_4">Mucha vida pero lento y no puede atacar. Es usado para recibir daño y detener al enemigo</string>
+    <string name="need_browser">Necesitas un navegador!</string>
+    <string name="already_loading">Ya se esta cargando!</string>
+
+</resources>
